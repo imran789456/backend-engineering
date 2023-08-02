@@ -1,0 +1,11 @@
+{
+    "item": "DuroSport 5",
+    "manufacturer": "prism",
+    "wholesalePrice": 84,
+    "listPrice": 99.95,
+    "inStock": true,
+    "ListPriceHistory": [
+        100, 200, 300, 400
+    ] 
+}
+
